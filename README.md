@@ -3,5 +3,5 @@
 
 
 ## About
+Learn more about dairy market capstone delieverables here: http://projects.nmi.cool/2023/nmc/dairymarket/
 
-## Preview
